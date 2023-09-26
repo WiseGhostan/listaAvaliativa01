@@ -19,7 +19,7 @@ int main()
         numero = numero/10;
         soma = soma + resto;
     }
-    printf("A soma dos algarismos de %d eh igual a %d\n", num, soma);
+    printf("A soma dos algarismos de %d eh %d\n", num, soma);
     
     
     return 0;
